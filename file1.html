@@ -1,0 +1,283 @@
+<link rel="stylesheet" href="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/output.css" async>
+<link rel="stylesheet" href="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/custom_theme.css" defer>
+<link rel="stylesheet" href="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/internetAction.css">
+
+<section id="internetPagePackages">
+    <div class="flex flex-row justify-between w-full">
+        <div id="internetPagePackagesLOB" class="flex flex-row justify-start ml-4 gap-x-10 items-end">
+            <a onclick="internetLOB()"><div>Internet</div></a>
+            <a onclick="tvLOB()"><div>TV</div></a>
+            <a onclick="bundleLOB()"><div class="bundleLOB">Bundle</div></a>
+            <a href="/business"><div>Business</div></a>
+        </div>
+        <div id="internetPagePackagesLOBZipSearch">
+            <form class="main-zip" action="" method="post">
+                <div class="zip-image">
+                    <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/pin-icon.svg" width="18px" height="26px" alt="zip-location">
+                </div>
+                <input class="find-input" id="zip" maxlength="5" minlength="5" name="zip" placeholder="Enter Zip Code*" required="" type="text" value="">
+                <input class="find-butn" id="" name="submit" type="submit" value="Find">
+            </form>
+        </div>
+    </div>
+    <hr id="internetPagePackagesLOBHR" class="pb-20 mt-4">
+
+    <div id="internetPagePackagesLOBPackageTiles" class="flex flex-row justify-center">
+
+        <div class="providerPackageTile flex flex-col justify-between Hughes" data-name="Hughes Network Systems, LLC">
+            <div class="topPortion">
+                <div class="providerPackageTileLogo ">
+                    <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/4.png">
+                </div>
+                <div class="providerPackageTileHeading flex flex-row justify-start items-baseline">
+                    <div><h4>Speeds</h4></div>
+                    <div><h5>Upto 25 Mbps</h5></div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Download speed of up to 25Mbps &amp; Upload speed of up to 3Mbps</h5>
+                    </div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Flexible data cap for internet plans</h5>
+                    </div>
+                </div>
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Contract for 24-months</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="providerPackageTileButtons flex flex-row items-baseline">
+                <a href="tel:8556041038"><div><button class="providerPackageTileButton">Call Now</button></div></a>
+                <a href="/provider/hughes"><div><button class="providerPackageTileButton">View Plans</button></div></a>
+            </div>
+        </div>
+
+
+        <div class="providerPackageTile flex flex-col justify-between ViaSat," data-name="ViaSat, Inc.">
+            <div class="topPortion">
+                <div class="providerPackageTileLogo ">
+                    <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/5.png">
+                </div>
+                <div class="providerPackageTileHeading flex flex-row justify-start items-baseline">
+                    <div><h4>Speeds</h4></div>
+                    <div><h5>Upto 35 Mbps</h5></div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>High-speed internet plans </h5>
+                    </div>
+                </div>
+
+
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Smooth online streaming</h5>
+                    </div>
+                </div>
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Best for work/ school from home</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="providerPackageTileButtons flex flex-row items-baseline">
+                <a href="tel:8556041038"><div><button class="providerPackageTileButton">Call Now</button></div></a>
+                <a href="/provider/viasat"><div><button class="providerPackageTileButton">View Plans</button></div></a>
+            </div>
+        </div>
+
+
+        <div class="providerPackageTile flex flex-col justify-between AT&amp;T" data-name="AT&amp;T Inc.">
+            <div class="topPortion">
+                <div class="providerPackageTileLogo ">
+                    <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/13.png">
+                </div>
+                <div class="providerPackageTileHeading flex flex-row justify-start items-baseline">
+                    <div><h4>Speeds</h4></div>
+                    <div><h5>Upto 6 Mbps</h5></div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>High upload and download speeds</h5>
+                    </div>
+                </div>
+
+
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Unlimited internet data plans</h5>
+                    </div>
+                </div>
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Modem with WiFi included</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="providerPackageTileButtons flex flex-row items-baseline">
+                <a href="tel:8556041038"><div><button class="providerPackageTileButton">Call Now</button></div></a>
+                <a href="/provider/at&amp;t"><div><button class="providerPackageTileButton">View Plans</button></div></a>
+            </div>
+        </div>
+
+
+        <div class="providerPackageTile flex flex-col justify-between T-Mobile" data-name="T-Mobile USA, Inc.">
+            <div class="topPortion">
+                <div class="providerPackageTileLogo ">
+                    <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/14.png">
+                </div>
+                <div class="providerPackageTileHeading flex flex-row justify-start items-baseline">
+                    <div><h4>Speeds</h4></div>
+                    <div><h5>Upto 25 Mbps</h5></div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Unlimited Gaming, Streaming, Video Calls And More</h5>
+                    </div>
+                </div>
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>No Data Caps</h5>
+                    </div>
+                </div>
+
+                <div class="providerPackageTileKeyPoint">
+                    <div class="providerPackageTileTick">
+                        <img src="https://d3rho3py3wd5ig.cloudfront.net/staticfiles/checklist_icon.png">
+                    </div>
+                    <div class="providerPackageTileKeyPointDescription">
+                        <h5>Wi – Fi that supports the entire house</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="providerPackageTileButtons flex flex-row items-baseline">
+                <a href="tel:8556041038"><div><button class="providerPackageTileButton">Call Now</button></div></a>
+                <a href="/provider/t-mobile"><div><button class="providerPackageTileButton">View Plans</button></div></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script>
+    let myDict = {
+        "Hughes Network Systems, LLC":
+        {
+            "data":
+            {
+                "bundle":
+                ["Download speed of up to 25Mbps", "More than 200+ channels with Free HD options", "Select from a variety of local and regional channels"],
+                "internet_points":
+                ["Download speed of up to 25Mbps \u0026 Upload speed of up to 3Mbps", "Flexible data cap for internet plans", "Contract for 24-months"],
+                "tv_points":
+                ["More than 200+ channels including FOX Business, Discovery HD, Disney Junior and more", "Select from a variety of local and regional channels", "24/7 customer support available"]
+            },
+            "download_speed": 25, "index": 4
+        },
+        "ViaSat, Inc.":
+        {
+            "data":
+            {
+                "bundle":
+                ["Download speed of up to 300Mbps", "More than 200+ channels with Free HD options", "Select from a variety of local and regional channels"],
+                "internet_points":
+                ["High-speed internet plans ", "Smooth online streaming", "Best for work/ school from home"],
+                "tv_points":
+                ["More than 200+ channels including FOX Business, Discovery HD, Disney Junior and more", "Select from a variety of local and regional channels", "24/7 customer support available"]
+            },
+            "download_speed": 35, "index": 5
+        },
+        "AT\u0026T Inc.":
+        {
+            "data":
+            {
+                "bundle":
+                ["Download speed of up to 25Mbps", "More than 200+ channels with Free HD options", "Select from a variety of local and regional channels"],
+                "internet_points":
+                ["High upload and download speeds", "Unlimited internet data plans", "Modem with WiFi included"],
+                "tv_points":
+                ["More than 200+ channels including FOX Business, Discovery HD, Disney Junior and more", "Select from a variety of local and regional channels", "24/7 customer support available"]
+            },
+            "download_speed": 6, "index": 13
+        },
+        "T-Mobile USA, Inc.":
+        {
+            "data":
+            {
+                "bundle":
+                ["Download speed of up to 25Mbps", "More than 200+ channels with Free HD options", "Select from a variety of local and regional channels"],
+                "internet_points":
+                ["Unlimited Gaming, Streaming, Video Calls And More", "No Data Caps", "Wi \u2013 Fi that supports the entire house"],
+                "tv_points":
+                ["More than 200+ channels including FOX Business, Discovery HD, Disney Junior and more", "Select from a variety of local and regional channels", "24/7 customer support available"]
+            },
+            "download_speed": 25, "index": 14
+        },
+    };
+    let names = $('#internetPagePackagesLOBPackageTiles').children().map(function() {
+        return $(this).data('name');
+    }).get();
+
+    function internetLOB(){
+        for (let key in myDict){
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(0).text(myDict[key]['data']['internet_points'][0]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(1).text(myDict[key]['data']['internet_points'][1]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(2).text(myDict[key]['data']['internet_points'][2]);
+        }
+    }
+    function tvLOB(){
+        for (let key in myDict){
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(0).text(myDict[key]['data']['tv_points'][0]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(1).text(myDict[key]['data']['tv_points'][1]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(2).text(myDict[key]['data']['tv_points'][2]);
+        }
+    }
+    function bundleLOB(){
+        for (let key in myDict){
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(0).text(myDict[key]['data']['bundle'][0]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(1).text(myDict[key]['data']['bundle'][1]);
+            $("*[data-name='"+key+"']").find('.providerPackageTileKeyPointDescription').eq(2).text(myDict[key]['data']['bundle'][2]);
+        }
+    }
+</script>

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>heroSOLD</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        .underline {
+            text-decoration: underline;
+        }
+    </style>
+    <style>
+        .card {
+            background-color: #5092ce;
+        }
+        .herosold {
+            background-color: #5092ce;
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+        body{
+            background-color: black;
+            color: white;
+        }
+        .range_input_upper {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100%;
+            cursor: pointer;
+            outline: none;
+            border-radius: 15px;
+            height: 4px;
+        }
+        .range_input_upper::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            height: 25px;
+            width: 25px;
+            background-color: #5092ce;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+        .range_input_upper::-moz-range-thumb {
+            height: 25px;
+            width: 25px;
+            background-color: #5092ce;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+        .range_input_upper::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            height: 25px;
+            width: 25px;
+            background-color: #5092ce;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+        .range_input_upper::-moz-range-thumb {
+            height: 25px;
+            width: 25px;
+            background-color: #5092ce;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+        .range_input_lower {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 80%;
+            cursor: pointer;
+            outline: none;
+            border-radius: 15px;
+            height: 2px;
+        }
+        .range_input_lower::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            height: 15px;
+            width: 15px;
+            background-color: #5092ce;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+        .range_input_lower::-moz-range-thumb {
+            height: 15px;
+            width: 15px;
+            background-color: #060706;
+            border-radius: 50%;
+            border: none;
+            transition: .2s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-8">
+                <div class="container text-center">
+                    <strong style="font-size: 23px;">How much can i save with heroSOLD ?</strong>
+                    <hr style="border-top: 1px solid rgba(143, 147, 144, 0.64); margin-top: 7px; width: 55%;">
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <strong style="font-size: 22.25px;">Listing Price</strong>
+                        </div>
+                        <div class="col-md-6 text-right">
+                            <strong style="font-size: 29.26px;">$350,000</strong>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="range w-100">
+                                <input class="range_input_upper" name="range" id="customRange1" type="range" value="2800" min="0"
+                                max="350000">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container mt-5">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <strong style="font-size: 16px; display: block;">Agent Fees With heroSOLD</strong>
+                                    <div style="font-size: 16px;">Listing fees start as low as 1.5%</div>
+                                    <div style="font-size: 16px;">Optional Buyer Agent Fee 0-3%</div>
+                                    <div class="range w-100">
+                                        <input class="range_input_lower" name="range" id="customRange2" type="range" value="1" min="0"
+                                        max="3">
+                                    </div>
+                                    <div style="font-size: 16px;">Listing Agent + Buyer Agent Fee 4.5%</div>
+                                    <strong class="text-right" style="font-size: 24px; display: block;">$18,200</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mt-md-0 mt-sm-3 mt-3 mt-lg-0">
+                            <div class="card h-100">
+                                <div class="card-body">
+                                    <strong style="font-size: 16px; display: block;">Compared to a 6% Agent Fee Model</strong>
+                                    <strong class="text-right" style="font-size: 24px; display: block; margin-top: 96px;">$21,000</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container mt-5 text-center">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <strong>
+                                <div class="d-flex justify-content-center">
+                                    <i class="fa-solid fa-quote-left" style="padding-top: 15px !important;"></i>
+                                    <span class="px-2" style="font-size: 42.66px;">Porential saving with <span class="herosold">heroSOLD</span></span>
+                                    <i class="fa-solid fa-quote-right" style="padding-top: 15px !important;"></i>
+                                </div>
+                            </strong>
+                            <br>
+                            <strong class="mt-3" style="font-size: 57.29px;" id="silder_amount">$2,800</strong>
+                            <p class="mt-3" style="font-size: 17px; color: #c6c6c6;">Commission rates are negotiable, and our example of 6% is just an example to compare to.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        function numberWithCommas(x) {
+            return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+        $(document).ready(function () {
+            var max = $('#customRange1').attr('max');
+            var v = $('#customRange1').val();
+            const progress = (v / max) * 100;
+            $('#customRange1').css('background', `linear-gradient(to right, #fff ${progress}%, #5092ce ${progress}%)`);
+            $('#customRange1').on('input', function () {
+                var max = $(this).attr('max');
+                var v = $(this).val();
+                const progress = (v / max) * 100;
+                var formattedPrice = numberWithCommas(v);
+                $('#silder_amount').text('$' + formattedPrice);
+                $(this).css('background', `linear-gradient(to right, #fff ${progress}%, #5092ce ${progress}%)`);
+            });
+        });
+        $(document).ready(function () {
+            var max = $('#customRange2').attr('max');
+            var v = $('#customRange2').val();
+            const progress = (v / max) * 100;
+            $('#customRange2').css('background', `linear-gradient(to right, #fff ${progress}%, #060706 ${progress}%)`);
+            $('#customRange2').on('input', function () {
+                var max = $(this).attr('max');
+                var v = $(this).val();
+                const progress = (v / max) * 100;
+                $(this).css('background', `linear-gradient(to right, #fff ${progress}%, #060706 ${progress}%)`);
+            });
+        });
+    </script>
+</body>
+</html>
