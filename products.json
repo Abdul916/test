@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": 3362855,
+      "id_label": "B4",
+      "crated_at": 1727175100000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Product 3",
+          "uom_id": 1,
+          "code": "0909",
+          "article": "9090",
+          "amount": 200,
+          "price": 45
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3362854,
+      "id_label": "B3",
+      "crated_at": 1727175064000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Product 2",
+          "uom_id": 1,
+          "code": "5678",
+          "article": "8765",
+          "amount": 200,
+          "price": 50
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3362847,
+      "id_label": "B2",
+      "crated_at": 1727171356000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Product 1",
+          "uom_id": 1,
+          "code": "1234",
+          "article": "4321",
+          "amount": 200,
+          "price": 5
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3362846,
+      "id_label": "B1",
+      "crated_at": 1727170901000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Bulb",
+          "uom_id": 1,
+          "code": "",
+          "article": "1252",
+          "amount": 200,
+          "price": 4
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "page": 1,
+  "count": 1,
+  "success": true
+}

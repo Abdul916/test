@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 21662,
+            "lead_type_id": 34026,
+            "lead_id_label": "008",
+            "branch_id": 81883,
+            "client": {
+                "id": 14214383,
+                "name": "Dawit Demssie",
+                "first_name": "Dawit",
+                "last_name": "Demssie",
+                "email": "",
+                "phone": [
+                    "12403537152"
+                ],
+                "notes": "",
+                "address": "",
+                "supplier": false,
+                "juridical": false,
+                "conflicted": false,
+                "modified_at": 1717778596000,
+                "created_at": 1717778596000,
+                "discount_code": "",
+                "discount_goods": 0,
+                "discount_services": 0,
+                "discount_materials": 0,
+                "custom_fields": {
+                    "client_identification_number": ""
+                },
+                "ad_campaign": {}
+            },
+            "contact_name": "Test User",
+            "contact_phone": [
+                {
+                    "phone": "03001111111",
+                    "title": "phone_type.home",
+                    "notify": true,
+                    "has_viber": true,
+                    "has_whatsapp": true
+                }
+            ],
+            "status": {
+                "id": 815227,
+                "name": "New lead",
+                "color": "#428BCA",
+                "group": 1
+            },
+            "status_overdue": false,
+            "description": "description test",
+            "is_urgent": false,
+            "manager": {},
+            "custom_fields": {}
+        }
+    ],
+"page": 1,
+"count": 8,
+"success": true
+}

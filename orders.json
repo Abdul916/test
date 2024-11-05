@@ -1,0 +1,4612 @@
+{
+  "data": [
+    {
+      "id": 20538153,
+      "modified_at": 1713487707000,
+      "uuid": "94b3c176-663a-4b98-b2be-b57c812b7a9e",
+      "status": {
+        "id": 815243,
+        "name": "Invoiced",
+        "color": "#F0AD4E",
+        "group": 3
+      },
+      "created_at": 1713460691000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "The client already paid $500.00. Please ask him to pay the remaining balance of 500. ",
+      "resume": "",
+      "payed": 500,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713806100000,
+      "id_label": "A001",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23671436,
+          "entityId": 14878851,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "RFE Response Services I-130 Green card USC Family የግሪንካርድ እና የሲትዝን ቤተሰብ ማስመጫ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 350,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183371,
+        "name": "Bayou WoldeMedhin",
+        "first_name": "Bayou",
+        "last_name": "WoldeMedhin",
+        "email": "aschalewah@yahoo.com",
+        "phone": [
+          "12402052544"
+        ],
+        "notes": "Aschalew is handling this case for Bayou",
+        "address": "1505 Hideaway Place Silver Spring, MD 20906",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713460524000,
+        "created_at": 1713460524000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 361957,
+        "uid": "9-0002",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183371,
+          "name": "Bayou WoldeMedhin"
+        },
+        "warehouse": {
+          "title": "Client > Bayou WoldeMedhin",
+          "id": 289881,
+          "cell_id": 296611,
+          "client_id": 14183371
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20538309,
+      "modified_at": 1713561239000,
+      "uuid": "45eb09b8-3b09-4140-8cfa-d09a579c835d",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713469478000,
+      "done_at": 1713561239000,
+      "duration": 240,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 500,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 500,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "An appeal with the Administrative Appeals Office (AAO); \nA motion with the USCIS office that issued the latest decision in your case (including a field office, service center, or the AAO); or\nCertain appeals of the denial of an Immigration and Customs Enforcement (ICE) Form I-17, Petition for Approval of School for Attendance by Nonimmigrant Student, with the ICE Student and Exchange Visitor Program."
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713814980000,
+      "id_label": "A002",
+      "price": 500,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23671693,
+          "entityId": 14879262,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "I-290B, Notice of Appeal or Motion ለአስተዳደር ቢሮ ይግባኝ",
+          "amount": 1,
+          "price": 500,
+          "cost": 325,
+          "discount_value": 500,
+          "taxes": [],
+          "warranty": 4,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183349,
+        "name": "Seblewongel Kassa",
+        "first_name": "Seblewongel",
+        "last_name": "Kassa",
+        "email": "seblitad12@gmail.com",
+        "phone": [
+          "12024152748"
+        ],
+        "notes": "This is an existing client. ",
+        "address": "2001 15th Street NW Apt 901 Washington DC 20009",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713458544000,
+        "created_at": 1713458544000,
+        "discount_code": "2900000000018",
+        "discount_goods": 0,
+        "discount_services": 20,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {
+        "id": 361947,
+        "uid": "9-0001",
+        "title": "Immigration Related Services I-290B Appeal",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "I-290B Appeal",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183349,
+          "name": "Seblewongel Kassa"
+        },
+        "warehouse": {
+          "title": "Client > Seblewongel Kassa",
+          "id": 289873,
+          "cell_id": 296603,
+          "client_id": 14183349
+        },
+        "group_icon": "i-asset0"
+      },
+      "brand": "I-290B Appeal",
+      "model": ""
+    },
+    {
+      "id": 20538455,
+      "modified_at": 1713496336000,
+      "uuid": "4d047230-89cc-4062-8220-62dfef985646",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713496168000,
+      "duration": 240,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "She will bring her children as she just got granted asylum"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713823200000,
+      "id_label": "A003",
+      "price": 1455,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23671880,
+          "entityId": 14879696,
+          "uom_id": 1,
+          "engineerId": 130321,
+          "title": "I-730 Asylum Family የአሳይለም ቤተሰቦች ማስመጫ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 3,
+          "price": 485,
+          "cost": 169.75,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183541,
+        "name": "Roman Lulseged",
+        "first_name": "Roman",
+        "last_name": "Lulseged",
+        "email": "zegeye.helen@yahoo.com",
+        "phone": [
+          "12022470841"
+        ],
+        "notes": "",
+        "address": "13002 Sunstone Ct, Silver Spring, MD 20904",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713496080000,
+        "created_at": 1713495559000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130321,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {
+        "id": 362067,
+        "uid": "9-0005",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183541,
+          "name": "Roman Lulseged"
+        },
+        "warehouse": {
+          "title": "Client > Roman Lulseged",
+          "id": 289978,
+          "cell_id": 296708,
+          "client_id": 14183541
+        },
+        "group_icon": "i-asset0"
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20538457,
+      "modified_at": 1727105817000,
+      "uuid": "dd1f65d9-2460-4f2a-9595-3c49d662b871",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713496254000,
+      "scheduled_for": 1713974400000,
+      "duration": 240,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "I-485 for her green card"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713823200000,
+      "id_label": "A004",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23671879,
+          "entityId": 14879695,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "I-485 New Green car አዲስ ግሪን ካርድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 350,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183541,
+        "name": "Roman Lulseged",
+        "first_name": "Roman",
+        "last_name": "Lulseged",
+        "email": "zegeye.helen@yahoo.com",
+        "phone": [
+          "12022470841"
+        ],
+        "notes": "",
+        "address": "13002 Sunstone Ct, Silver Spring, MD 20904",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713496080000,
+        "created_at": 1713495559000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130458,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362067,
+        "uid": "9-0005",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183541,
+          "name": "Roman Lulseged"
+        },
+        "warehouse": {
+          "title": "Client > Roman Lulseged",
+          "id": 289978,
+          "cell_id": 296708,
+          "client_id": 14183541
+        },
+        "group_icon": "i-asset0"
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20538462,
+      "modified_at": 1713843162000,
+      "uuid": "324d77c6-4d41-437a-8cfe-1225ec3c277d",
+      "status": {
+        "id": 815247,
+        "name": "In progress",
+        "color": "#5CB85C",
+        "group": 2
+      },
+      "created_at": 1713498201000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713823200000,
+      "id_label": "A005",
+      "price": 100,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23676499,
+          "entityId": 14881264,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "Multilingual Communication Work Assessment and Evaluation Fee የብዝሃ ቋንቋ ግንኙነት የስራ ምዘና እና የግምገማ አገልግሎት ክፍያ",
+          "amount": 1,
+          "price": 100,
+          "cost": 35,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183313,
+        "name": "Dinberu Melakehiwot",
+        "first_name": "Dinberu",
+        "last_name": "Melakehiwot",
+        "email": "dmelake@adulis.net",
+        "phone": [
+          "13012813557"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1716315696000,
+        "created_at": 1713454808000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362071,
+        "uid": "9-0006",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "Test Work Orders",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183313,
+          "name": "Dinberu Melakehiwot"
+        },
+        "warehouse": {
+          "title": "Client > Dinberu Melakehiwot",
+          "id": 289984,
+          "cell_id": 296714,
+          "client_id": 14183313
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539578,
+      "modified_at": 1713560963000,
+      "uuid": "703e9ac5-cc04-4dde-b3f0-ac8e9c9b62ef",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713560963000,
+      "scheduled_for": 1713931200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "- Case update, Translate the updated case"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713906180000,
+      "id_label": "A006",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183313,
+        "name": "Dinberu Melakehiwot",
+        "first_name": "Dinberu",
+        "last_name": "Melakehiwot",
+        "email": "dmelake@adulis.net",
+        "phone": [
+          "13012813557"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1716315696000,
+        "created_at": 1713454808000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130321,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362071,
+        "uid": "9-0006",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "Test Work Orders",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14183313,
+          "name": "Dinberu Melakehiwot"
+        },
+        "warehouse": {
+          "title": "Client > Dinberu Melakehiwot",
+          "id": 289984,
+          "cell_id": 296714,
+          "client_id": 14183313
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539636,
+      "modified_at": 1713566417000,
+      "uuid": "678a1b7f-5601-4390-9ce1-6b0da334add3",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713566417000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A007",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189146,
+        "name": "Yonatan Berhe",
+        "first_name": "Yonatan",
+        "last_name": "Berhe",
+        "email": "yoniseattle@gmail.com",
+        "phone": [
+          "17026139973"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713565538000,
+        "created_at": 1713565538000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362565,
+        "uid": "9-0007",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189146,
+          "name": "Yonatan Berhe"
+        },
+        "warehouse": {
+          "title": "Client > Yonatan Berhe",
+          "id": 290249,
+          "cell_id": 296981,
+          "client_id": 14189146
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539638,
+      "modified_at": 1713567003000,
+      "uuid": "01e7678f-bb98-458a-82ee-bf7e27608d2c",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713567003000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A008",
+      "price": 200,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23673461,
+          "entityId": 14881193,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "Expedited Asylum Interview Strategy ለተፋጠነ የአሳይለም የቃለ መጠይቅ የማሳኪያ ስልት ደረጃ በደረጃ የሚደረግ ስራ አገልግሎት",
+          "amount": 1,
+          "price": 200,
+          "cost": 70,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189155,
+        "name": "Eyerusalem Fisha",
+        "first_name": "Eyerusalem",
+        "last_name": "Fisha",
+        "email": "jarrefesha@gmail.com",
+        "phone": [
+          "15712753568"
+        ],
+        "notes": "",
+        "address": "5800 16th St. North Apt. 62  Arlington, VA 22205",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713566934000,
+        "created_at": 1713566934000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362566,
+        "uid": "9-0008",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189155,
+          "name": "Eyerusalem Fisha"
+        },
+        "warehouse": {
+          "title": "Client > Eyerusalem Fisha",
+          "id": 290252,
+          "cell_id": 296984,
+          "client_id": 14189155
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539647,
+      "modified_at": 1713571123000,
+      "uuid": "b1599f17-26f5-4ddb-acad-a9ff00493c55",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713570608000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A009",
+      "price": 100,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23673501,
+          "entityId": 14881232,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "Phone call USCIS/IRS ኢሚግሬሽን እና አይአርኤስስልክመደወያ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 100,
+          "cost": 35,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189162,
+        "name": "Eyerusalem Tadese Tadese",
+        "first_name": "Eyerusalem Tadese",
+        "last_name": "Tadese",
+        "email": "barsieldu@gmail.com",
+        "phone": [
+          "15713941668"
+        ],
+        "notes": "",
+        "address": "401 12th street S Apt 1003 Arlington VA 22202",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713570566000,
+        "created_at": 1713570566000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362571,
+        "uid": "9-0009",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189162,
+          "name": "Eyerusalem Tadese Tadese"
+        },
+        "warehouse": {
+          "title": "Client > Eyerusalem Tadese Tadese",
+          "id": 290260,
+          "cell_id": 296992,
+          "client_id": 14189162
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539662,
+      "modified_at": 1713572668000,
+      "uuid": "c60f9be5-e1c4-438b-b03a-1b55db516d07",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713572667000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A010",
+      "price": 100,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23673515,
+          "entityId": 14881264,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "Multilingual Communication Work Assessment and Evaluation Fee የብዝሃ ቋንቋ ግንኙነት የስራ ምዘና እና የግምገማ አገልግሎት ክፍያ",
+          "amount": 1,
+          "price": 100,
+          "cost": 35,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189166,
+        "name": "Dagmawit Yosef",
+        "first_name": "Dagmawit",
+        "last_name": "Yosef",
+        "email": "dagilimo@gmail.com",
+        "phone": [
+          "15714803738"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713572603000,
+        "created_at": 1713571627000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362575,
+        "uid": "9-0010",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189166,
+          "name": "Dagmawit Yosef"
+        },
+        "warehouse": {
+          "title": "Client > Dagmawit Yosef",
+          "id": 290265,
+          "cell_id": 296997,
+          "client_id": 14189166
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539663,
+      "modified_at": 1713572881000,
+      "uuid": "16f1770f-0cf0-4ac7-8f20-49cd7c7b78ac",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713572881000,
+      "scheduled_for": 1713626100000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Please bring I-589, your passport, ID, USCIS Acknowledgment of Receipt and any other materials you may have I need to see for the case."
+      },
+      "estimated_cost": "100",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A011",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189166,
+        "name": "Dagmawit Yosef",
+        "first_name": "Dagmawit",
+        "last_name": "Yosef",
+        "email": "dagilimo@gmail.com",
+        "phone": [
+          "15714803738"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713572603000,
+        "created_at": 1713571627000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362575,
+        "uid": "9-0010",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189166,
+          "name": "Dagmawit Yosef"
+        },
+        "warehouse": {
+          "title": "Client > Dagmawit Yosef",
+          "id": 290265,
+          "cell_id": 296997,
+          "client_id": 14189166
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20539673,
+      "modified_at": 1713577428000,
+      "uuid": "eb4fb418-2d85-4047-be60-5e2d3988e7e1",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713577356000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713909600000,
+      "id_label": "A012",
+      "price": 485,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23673541,
+          "entityId": 14879704,
+          "uom_id": 1,
+          "engineerId": 130330,
+          "title": "I-864 Affidavit of support አፊዳቪት ኦፍ ሰፖርት, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 485,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189175,
+        "name": "Beimnet Bekele",
+        "first_name": "Beimnet",
+        "last_name": "Bekele",
+        "email": "megabetibeb@gmail.com",
+        "phone": [
+          "15715019984"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713577277000,
+        "created_at": 1713577277000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": "Aba Gebriel Beimnet Bekele"
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {
+        "id": 362580,
+        "uid": "9-0011",
+        "title": "Immigration Related Services Not Applicable",
+        "color": "",
+        "state": "Finalize I-864 for Aba Gabriel. He has a cosponsor.",
+        "cost": 0,
+        "group": "Immigration Related Services",
+        "brand": "Not Applicable",
+        "model": "",
+        "modification": "",
+        "year": "",
+        "owner": {
+          "id": 14189175,
+          "name": "Beimnet Bekele"
+        },
+        "warehouse": {
+          "title": "Client > Beimnet Bekele",
+          "id": 290270,
+          "cell_id": 297002,
+          "client_id": 14189175
+        }
+      },
+      "brand": "Not Applicable",
+      "model": ""
+    },
+    {
+      "id": 20540209,
+      "modified_at": 1713842509000,
+      "uuid": "6ed24a73-7cf9-430b-a554-91a50d6f7b8c",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713631116000,
+      "scheduled_for": 1713896100000,
+      "duration": 120,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Case review"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713976620000,
+      "id_label": "A013",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23676495,
+          "entityId": 14879702,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "I-589 Asylum ጥገንነት/አሳይለም የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። T&I related services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 5,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189166,
+        "name": "Dagmawit Yosef",
+        "first_name": "Dagmawit",
+        "last_name": "Yosef",
+        "email": "dagilimo@gmail.com",
+        "phone": [
+          "15714803738"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713572603000,
+        "created_at": 1713571627000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540242,
+      "modified_at": 1717166902000,
+      "uuid": "22b32f19-5716-4d29-a10c-fc0e73882341",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713632555000,
+      "done_at": 1717166902000,
+      "scheduled_for": 1713628800000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713977940000,
+      "id_label": "A014",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189417,
+        "name": "Fasil Wondmagegn",
+        "first_name": "Fasil",
+        "last_name": "Wondmagegn",
+        "email": "Pominani@yahoo.com",
+        "phone": [
+          "12409170450"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713632506000,
+        "created_at": 1713632506000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130340,
+      "engineer_id": 130317,
+      "created_by_id": 130340,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540252,
+      "modified_at": 1727106571000,
+      "uuid": "99222998-0e7e-438f-9497-0f09abb46c42",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713633313000,
+      "done_at": 1727106571000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713978600000,
+      "id_label": "A015",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23674181,
+          "entityId": 14879702,
+          "uom_id": 1,
+          "engineerId": 130340,
+          "title": "I-589 Asylum ጥገንነት/አሳይለም የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። T&I related services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 5,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189421,
+        "name": "Kidist Geberetsadek",
+        "first_name": "Kidist",
+        "last_name": "Geberetsadek",
+        "email": "kidistemiru248@gmail.com",
+        "phone": [
+          "12406154667"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713633195000,
+        "created_at": 1713633195000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130340,
+      "engineer_id": 130317,
+      "created_by_id": 130340,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540278,
+      "modified_at": 1713635913000,
+      "uuid": "3dbfedea-7e11-4b0d-b76a-c517d54c6d54",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713635913000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713981360000,
+      "id_label": "A016",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23674215,
+          "entityId": 14879702,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "I-589 Asylum ጥገንነት/አሳይለም የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። T&I related services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 5,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189431,
+        "name": "Gelila Mekonnen",
+        "first_name": "Gelila",
+        "last_name": "Mekonnen",
+        "email": "Mekonnengelila34@gmail.com",
+        "phone": [
+          "12026558789"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713635887000,
+        "created_at": 1713635887000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540301,
+      "modified_at": 1713638923000,
+      "uuid": "0bfb659a-9e46-4335-98cf-e3fd753ac2d2",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713638923000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713984180000,
+      "id_label": "A017",
+      "price": 2000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23674258,
+          "entityId": 14882356,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "Welcome Corps is a refugee sponsorship initiative under the U.S. Refugee Admissions Program (USRAP).",
+          "amount": 1,
+          "price": 2000,
+          "cost": 600,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189451,
+        "name": "Ayenew Nega",
+        "first_name": "Ayenew",
+        "last_name": "Nega",
+        "email": "ayenew.nega6@gmail.com",
+        "phone": [
+          "12407268198"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713638555000,
+        "created_at": 1713638555000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130340,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540360,
+      "modified_at": 1713649492000,
+      "uuid": "83be7522-45c1-4bfd-8ddb-38705ba081f9",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713649393000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "Please make an appointment with Dr. Hassa for May 2 or 3rd. 01/07/1950",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713994920000,
+      "id_label": "A018",
+      "price": 2000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23674360,
+          "entityId": 14879701,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "N-400 with N-648 T and I የዜግነት ማመልከቻ ከሕክምና ዌቨር ጋር, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 2000,
+          "cost": 600,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 10,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189489,
+        "name": "Dehab Berhe",
+        "first_name": "Dehab",
+        "last_name": "Berhe",
+        "email": "nahiob2@gmail.com",
+        "phone": [
+          "16155936958"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713649379000,
+        "created_at": 1713649379000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "engineer_id": 130340,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20540582,
+      "modified_at": 1713740189000,
+      "uuid": "95703816-e5ec-428a-bc97-a93db0ef9093",
+      "status": {
+        "id": 815247,
+        "name": "In progress",
+        "color": "#5CB85C",
+        "group": 2
+      },
+      "created_at": 1713734758000,
+      "scheduled_for": 1714064400000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "I believe you can write information for the manager here. We will check whether the word manager refers to the case manager or the business manager.",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "This is a test work order. You can write anything the customer wants here."
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714079940000,
+      "id_label": "A019",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14183313,
+        "name": "Dinberu Melakehiwot",
+        "first_name": "Dinberu",
+        "last_name": "Melakehiwot",
+        "email": "dmelake@adulis.net",
+        "phone": [
+          "13012813557"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1716315696000,
+        "created_at": 1713454808000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "engineer_id": 130330,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20541082,
+      "modified_at": 1713968423000,
+      "uuid": "8fa8d5a6-e915-4cf5-ab0e-a87afd19cb92",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713787597000,
+      "done_at": 1713968423000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714082400000,
+      "id_label": "A020",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23675188,
+          "entityId": 14879702,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-589 Asylum ጥገንነት/አሳይለም የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። T&I related services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 5,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189879,
+        "name": "Mikiyas Haile",
+        "first_name": "Mikiyas",
+        "last_name": "Haile",
+        "email": "mikiashaile81@gmail.com",
+        "phone": [
+          "12404681131"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713885999000,
+        "created_at": 1713787557000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20541141,
+      "modified_at": 1714056650000,
+      "uuid": "70b64793-6523-43ba-a23e-9edd04ac5f44",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713790189000,
+      "done_at": 1714056650000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714082400000,
+      "id_label": "A021",
+      "price": 950,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23675275,
+          "entityId": 14887927,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-821 Temporary Protection Service. Providing, interpretation, document preparation and compilation services.",
+          "amount": 1,
+          "price": 750,
+          "cost": 0,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        },
+        {
+          "id": 23675276,
+          "entityId": 14879700,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-765 Work Permit የስራ ፈቃድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 200,
+          "cost": 70,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189879,
+        "name": "Mikiyas Haile",
+        "first_name": "Mikiyas",
+        "last_name": "Haile",
+        "email": "mikiashaile81@gmail.com",
+        "phone": [
+          "12404681131"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713885999000,
+        "created_at": 1713787557000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20541937,
+      "modified_at": 1715284279000,
+      "uuid": "497b64b0-e303-4535-a7bb-3777b9d64707",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713807417000,
+      "scheduled_for": 1715965200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 900,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Kirubel came with F1 Visa and he has a work Authorization with this status. But, he want to apply for TPS as well as WA"
+      },
+      "estimated_cost": "900",
+      "estimated_done_at": 1714755600000,
+      "id_label": "A022",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190159,
+        "name": "Kirubel Zergaw",
+        "first_name": "Kirubel",
+        "last_name": "Zergaw",
+        "email": "kira.sahle5@gmail.com",
+        "phone": [
+          "13237026727"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713807132000,
+        "created_at": 1713807132000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": "New TPS Application -"
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130458,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20541969,
+      "modified_at": 1713807782000,
+      "uuid": "25978e99-00eb-4a11-abaa-22211a8c12b9",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713807782000,
+      "scheduled_for": 1715702400000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "N-400 for Nishan and Sophia"
+      },
+      "estimated_cost": "1000",
+      "estimated_done_at": 1714153080000,
+      "id_label": "A023",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190163,
+        "name": "Lishan Tenna",
+        "first_name": "Lishan",
+        "last_name": "Tenna",
+        "email": "lishansophia12@gmail.com",
+        "phone": [
+          "15106813061"
+        ],
+        "notes": "",
+        "address": "1347HIllborn DR. Way Hanover MD, 21076",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713807694000,
+        "created_at": 1713807694000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20542042,
+      "modified_at": 1713810602000,
+      "uuid": "d562665f-ca12-4ebb-a55f-e23a04570a2b",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713810602000,
+      "scheduled_for": 1713909600000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": true,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Affidavit"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713866400000,
+      "id_label": "A024",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190200,
+        "name": "Tigist Nigussie",
+        "first_name": "Tigist Nigussie",
+        "last_name": "",
+        "email": "",
+        "phone": [
+          ""
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713810602000,
+        "created_at": 1713810602000,
+        "discount_code": "",
+        "custom_fields": {},
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20542223,
+      "modified_at": 1713816366000,
+      "uuid": "61995d46-9549-4bfb-ba13-3e8c7cffdda0",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713816366000,
+      "scheduled_for": 1713895200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714161660000,
+      "id_label": "A025",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190266,
+        "name": "Fitsum Tesfaye",
+        "first_name": "Fitsum",
+        "last_name": "Tesfaye",
+        "email": "fitsumgebre99@gmail.com",
+        "phone": [
+          "12029971364"
+        ],
+        "notes": "",
+        "address": "7433 7th Street NW Washington DC 20012",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713816277000,
+        "created_at": 1713816277000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20542255,
+      "modified_at": 1714056722000,
+      "uuid": "a139f6da-16a0-438b-b171-863795927029",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713818809000,
+      "done_at": 1713970460000,
+      "scheduled_for": 1715000400000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714163820000,
+      "id_label": "A026",
+      "price": 950,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23676294,
+          "entityId": 14889190,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "Temporary Protected Status Designated Country: Ethiopia and Related Work Permit",
+          "amount": 1,
+          "price": 950,
+          "cost": 332.5,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190266,
+        "name": "Fitsum Tesfaye",
+        "first_name": "Fitsum",
+        "last_name": "Tesfaye",
+        "email": "fitsumgebre99@gmail.com",
+        "phone": [
+          "12029971364"
+        ],
+        "notes": "",
+        "address": "7433 7th Street NW Washington DC 20012",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713816277000,
+        "created_at": 1713816277000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130458,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20542374,
+      "modified_at": 1714059818000,
+      "uuid": "42ee3e75-82e7-47cc-998e-50adf6ab7ba0",
+      "status": {
+        "id": 815247,
+        "name": "In progress",
+        "color": "#5CB85C",
+        "group": 2
+      },
+      "created_at": 1713832184000,
+      "scheduled_for": 1713834000000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Aba Gabriel would like to have 3 I-864 asap. Case created in the immigration air. Folder opened under the name Beimnet Bekele."
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714168800000,
+      "id_label": "A027",
+      "price": 485,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23676441,
+          "entityId": 14879704,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-864 Affidavit of support አፊዳቪት ኦፍ ሰፖርት, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 485,
+          "cost": 165,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14189175,
+        "name": "Beimnet Bekele",
+        "first_name": "Beimnet",
+        "last_name": "Bekele",
+        "email": "megabetibeb@gmail.com",
+        "phone": [
+          "15715019984"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713577277000,
+        "created_at": 1713577277000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": "Aba Gebriel Beimnet Bekele"
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "engineer_id": 130546,
+      "created_by_id": 130330,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543453,
+      "modified_at": 1714061581000,
+      "uuid": "a858d14e-2c6b-48ee-95a9-d8b4670f418a",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713883869000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 1000,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1715265660000,
+      "id_label": "A028",
+      "price": 2000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23677712,
+          "entityId": 14890659,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "DOCUMENTS REQUIRED FOR THE ONE-STEP-ADJ CASE PROCESSING, to adjust visa for Family who came to the US with non immigrant visa ለ ዋን ስቴፕ አጀስትመንት ጉዳይ የሚያስፈልጉ ሰነዶች; የጎብኝት ወይም ሌላ አይነት ቪዛ ይዘው ወደ አሜሪካ ለመጡ እናት፣ አባት፣ እህት፣ ወንድም፣ ሚስት ባል፣ ወይም ልጆች ወደ ግሪን ካርድ መቀየርያ!",
+          "amount": 1,
+          "price": 2000,
+          "cost": 0,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190687,
+        "name": "Daniel Gebre",
+        "first_name": "Daniel",
+        "last_name": "Gebre",
+        "email": "danielgebre21@gmail.com",
+        "phone": [
+          "12023447752"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713883236000,
+        "created_at": 1713883236000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543454,
+      "modified_at": 1717167297000,
+      "uuid": "fa0108f8-3dfc-4e89-bafb-7b5c8f62bba1",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713884404000,
+      "done_at": 1717167223000,
+      "scheduled_for": 1716586200000,
+      "duration": 30,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "I-589 filled and customer provided with biometrics appointment and receipt notice.",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "New Asylum Applicant"
+      },
+      "estimated_cost": "5000",
+      "estimated_done_at": 1716233400000,
+      "id_label": "A029",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190676,
+        "name": "Biruk Tolla",
+        "first_name": "Biruk",
+        "last_name": "Tolla",
+        "email": "Biruktolla2002@gmail.com",
+        "phone": [
+          "12403512233"
+        ],
+        "notes": "",
+        "address": "10213 Leslie St. Silver Spring MD, 20902",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713882623000,
+        "created_at": 1713882623000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217761,
+          "name": "Friend"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543494,
+      "modified_at": 1714258989000,
+      "uuid": "d9a11b86-f89a-482b-84e0-d36c7e4e9580",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713885843000,
+      "done_at": 1714258989000,
+      "scheduled_for": 1713888000000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714230000000,
+      "id_label": "A030",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190715,
+        "name": "Berke Tadesse",
+        "first_name": "Berke",
+        "last_name": "Tadesse",
+        "email": "tadesseberke78@gmail.com",
+        "phone": [
+          "112404243"
+        ],
+        "notes": "I-765 - Renewal",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713885820000,
+        "created_at": 1713885820000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543569,
+      "modified_at": 1713886514000,
+      "uuid": "a8b8e9d6-5c60-4605-9b35-3f807ac24eec",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713886514000,
+      "scheduled_for": 1714665600000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Looking for an Affidavit for his case"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1717513200000,
+      "id_label": "A031",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190723,
+        "name": "Nathan Tadesse",
+        "first_name": "Nathan",
+        "last_name": "Tadesse",
+        "email": "nathanmetasebia96@yahoo.com",
+        "phone": [
+          "15718950620"
+        ],
+        "notes": "Asylum Case With Layer",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1714674352000,
+        "created_at": 1713886514000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543665,
+      "modified_at": 1714258956000,
+      "uuid": "3ef85bfc-eaa7-48e8-a435-abcb2cc44243",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713889194000,
+      "done_at": 1714258956000,
+      "scheduled_for": 1713967200000,
+      "duration": 120,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "The translated document will be delivered tomorrow 4/25 @ 0400 PM",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 125,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "One Page Amharic-English Translation"
+      },
+      "estimated_cost": "125",
+      "estimated_done_at": 1713988800000,
+      "id_label": "A032",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190748,
+        "name": "Abayneh Demke Tiruneh",
+        "first_name": "Abayneh Demke Tiruneh",
+        "last_name": "",
+        "email": "",
+        "phone": [
+          ""
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713889194000,
+        "created_at": 1713889194000,
+        "discount_code": "",
+        "custom_fields": {},
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130462,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543735,
+      "modified_at": 1713968403000,
+      "uuid": "c38068d8-b7f4-427e-8896-b53bb72a9b44",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713891600000,
+      "done_at": 1713968403000,
+      "scheduled_for": 1713989100000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 700,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 190,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714236720000,
+      "id_label": "A033",
+      "price": 760,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678026,
+          "entityId": 14889190,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "Temporary Protected Status Designated Country: Ethiopia and Related Work Permit",
+          "amount": 1,
+          "price": 760,
+          "cost": 332.5,
+          "discount_value": 190,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190773,
+        "name": "Mesfin Getaneh",
+        "first_name": "Mesfin",
+        "last_name": "Getaneh",
+        "email": "mesfinamyad@yahoo.com",
+        "phone": [
+          "12407099544"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713891558000,
+        "created_at": 1713891558000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543825,
+      "modified_at": 1718910735000,
+      "uuid": "4cf3cc45-c356-4a81-b683-de4a2cd69a7e",
+      "status": {
+        "id": 815247,
+        "name": "In progress",
+        "color": "#5CB85C",
+        "group": 2
+      },
+      "created_at": 1713895482000,
+      "scheduled_for": 1714672800000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "The client is looking for consultation for his Mom citizenship. she is 45 Years old and do not speak English."
+      },
+      "estimated_cost": "2000",
+      "estimated_done_at": 1714676400000,
+      "id_label": "A034",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190809,
+        "name": "Abdi Nur",
+        "first_name": "Abdi",
+        "last_name": "Nur",
+        "email": "NurAbdi1122@gmail.com",
+        "phone": [
+          "18044679291"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1715284570000,
+        "created_at": 1713894970000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543902,
+      "modified_at": 1714504983000,
+      "uuid": "628f27bb-9ecf-47dd-b78a-c9ce2275399b",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713898607000,
+      "done_at": 1714504952000,
+      "scheduled_for": 1714147200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 250,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714157700000,
+      "id_label": "A035",
+      "price": 750,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678215,
+          "entityId": 14879695,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-485 New Green car አዲስ ግሪን ካርድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 750,
+          "cost": 350,
+          "discount_value": 250,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14186860,
+        "name": "GETU WELDEYOHANES GETU WELDEYOHANES",
+        "first_name": "GETU WELDEYOHANES",
+        "last_name": "GETU WELDEYOHANES",
+        "email": "getuwoldeyes@gmail.com",
+        "phone": [
+          "13017554364"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713899503000,
+        "created_at": 1713565067000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543928,
+      "modified_at": 1713900298000,
+      "uuid": "841cab73-c0d6-4375-bb27-dfa6e154e46b",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713900235000,
+      "scheduled_for": 1715003100000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1715005500000,
+      "id_label": "A036",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190850,
+        "name": "Lemlem Legese",
+        "first_name": "Lemlem",
+        "last_name": "Legese",
+        "email": "thewodros67sk@gmail.com",
+        "phone": [
+          "13015372512"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713900140000,
+        "created_at": 1713900140000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130317,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543951,
+      "modified_at": 1713906031000,
+      "uuid": "196f0476-a958-4929-a29a-751f9b7ebdd6",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713901654000,
+      "done_at": 1713906031000,
+      "scheduled_for": 1714057200000,
+      "duration": 150,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 950,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714081440000,
+      "id_label": "A037",
+      "price": 950,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678293,
+          "entityId": 14889190,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "Temporary Protected Status Designated Country: Ethiopia and Related Work Permit",
+          "amount": 1,
+          "price": 950,
+          "cost": 332.5,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190862,
+        "name": "Fitsum Tesfaye",
+        "first_name": "Fitsum",
+        "last_name": "Tesfaye",
+        "email": "fitsumgebre99@gmail.com",
+        "phone": [
+          "12029613120"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713901588000,
+        "created_at": 1713901578000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543966,
+      "modified_at": 1713902604000,
+      "uuid": "e964f09d-bcd7-469f-8f7b-5b82d78f18f7",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713902604000,
+      "scheduled_for": 1714248000000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714248000000,
+      "id_label": "A038",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190867,
+        "name": "Esayas Sherka",
+        "first_name": "Esayas",
+        "last_name": "Sherka",
+        "email": "amsesma@yahoo.com",
+        "phone": [
+          "18578910893"
+        ],
+        "notes": "",
+        "address": "400 Madicen St. Alexandria, VA",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713902553000,
+        "created_at": 1713902553000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217761,
+          "name": "Friend"
+        }
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543978,
+      "modified_at": 1713904084000,
+      "uuid": "658c7327-3a4a-4ef7-9d56-0b481c24e8e5",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713904084000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "I-485",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714658400000,
+      "id_label": "A039",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190877,
+        "name": "Ghion Desta",
+        "first_name": "Ghion Desta",
+        "last_name": "",
+        "email": "",
+        "phone": [
+          ""
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713904084000,
+        "created_at": 1713904084000,
+        "discount_code": "",
+        "custom_fields": {},
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20543989,
+      "modified_at": 1714582223000,
+      "uuid": "af278c50-d777-4e99-a733-b5070251e70a",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713904878000,
+      "done_at": 1714582223000,
+      "scheduled_for": 1713970800000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "Yalageba"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714249800000,
+      "id_label": "A040",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190885,
+        "name": "Kassa Amare",
+        "first_name": "Kassa Amare",
+        "last_name": "",
+        "email": "",
+        "phone": [
+          ""
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713904878000,
+        "created_at": 1713904878000,
+        "discount_code": "",
+        "custom_fields": {},
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130321,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20544019,
+      "modified_at": 1714067456000,
+      "uuid": "16f98913-ec50-4ad9-bf01-6e2a69367943",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713905843000,
+      "done_at": 1714067456000,
+      "scheduled_for": 1713981600000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "I-765"
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714251360000,
+      "id_label": "A041",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190715,
+        "name": "Berke Tadesse",
+        "first_name": "Berke",
+        "last_name": "Tadesse",
+        "email": "tadesseberke78@gmail.com",
+        "phone": [
+          "112404243"
+        ],
+        "notes": "I-765 - Renewal",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713885820000,
+        "created_at": 1713885820000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130462,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20544022,
+      "modified_at": 1714582034000,
+      "uuid": "557ad89e-d3eb-401d-b22a-4ea5e2e44916",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713906576000,
+      "done_at": 1714582034000,
+      "scheduled_for": 1714503600000,
+      "duration": 120,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "I-765 - All information received",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 200,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "200",
+      "estimated_done_at": 1714251840000,
+      "id_label": "A042",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190896,
+        "name": "Dagmawi Gebre",
+        "first_name": "Dagmawi",
+        "last_name": "Gebre",
+        "email": "dagm1970@gmail.com",
+        "phone": [
+          "12408985084"
+        ],
+        "notes": "i-765 Renewal ",
+        "address": "619 KENROOK DR, SILVER SPRING MD, 20902",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713906427000,
+        "created_at": 1713906427000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130330,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20544071,
+      "modified_at": 1713981463000,
+      "uuid": "e403ff90-c376-44dd-8939-ac786b4e093f",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713909726000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714254960000,
+      "id_label": "A043",
+      "price": 500,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678439,
+          "entityId": 14891382,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-134 Tourist Visa የጉብኝት ቪዛ መጋበዣ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 500,
+          "cost": 175,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14184480,
+        "name": "Fetiya Ahmed",
+        "first_name": "Fetiya",
+        "last_name": "Ahmed",
+        "email": "amhedfetiya76@gmail.com",
+        "phone": [
+          "12403673998"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713909490000,
+        "created_at": 1713565063000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20544086,
+      "modified_at": 1713911432000,
+      "uuid": "d0205aa8-7b58-459e-9e5e-c6a3a1a235c6",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713911374000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "Please schedule for Monday 4 PM",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "I-130 Response"
+      },
+      "estimated_cost": "1000",
+      "estimated_done_at": 1714255200000,
+      "id_label": "A044",
+      "price": 1000,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678474,
+          "entityId": 14878851,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "RFE Response Services I-130 Green card USC Family የግሪንካርድ እና የሲትዝን ቤተሰብ ማስመጫ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 1000,
+          "cost": 350,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190943,
+        "name": "Etsegenet Bekele",
+        "first_name": "Etsegenet",
+        "last_name": "Bekele",
+        "email": "zewdumelka1926@gmail.com",
+        "phone": [
+          "17185781926"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713911310000,
+        "created_at": 1713911310000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "engineer_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {
+        "id": 217763,
+        "name": "Social Network"
+      },
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20544116,
+      "modified_at": 1713976419000,
+      "uuid": "b5c4b03e-1792-44ea-ba8d-fb0747e68e61",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1713914364000,
+      "done_at": 1713976419000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 285,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 200,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714255200000,
+      "id_label": "A045",
+      "price": 285,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23678527,
+          "entityId": 14891550,
+          "uom_id": 1,
+          "engineerId": 130317,
+          "title": "I-131 Travelers Document የትራቭል ዶኪመንት/ሁለት አመት ውጭ መቆያ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 285,
+          "cost": 169.75,
+          "discount_value": 200,
+          "taxes": [],
+          "warranty": 0,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14190970,
+        "name": "Azmeraye NEGUSSIE",
+        "first_name": "Azmeraye",
+        "last_name": "NEGUSSIE",
+        "email": "azay6411@gmail.com",
+        "phone": [
+          "1124064128"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713914094000,
+        "created_at": 1713914094000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {
+          "id": 217763,
+          "name": "Social Network"
+        }
+      },
+      "manager_id": 130317,
+      "created_by_id": 130317,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20545098,
+      "modified_at": 1713974145000,
+      "uuid": "fe5567fb-6bdf-421d-b334-04dc3475cc63",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713973862000,
+      "scheduled_for": 1714662000000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714662000000,
+      "id_label": "A046",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14191294,
+        "name": "Fosia H. Osman",
+        "first_name": "Fosia H.",
+        "last_name": "Osman",
+        "email": "fozia0427@gmail.com",
+        "phone": [
+          "15714354541"
+        ],
+        "notes": "Customer looking for Affidavit to expedite her children's case  ",
+        "address": "1528 Rabbit Hollowpi, Silver spring, MD,  20906",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713973849000,
+        "created_at": 1713973849000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20545388,
+      "modified_at": 1713985997000,
+      "uuid": "c00c03d7-fe19-4398-8094-a0a30fe8a4d5",
+      "status": {
+        "id": 815228,
+        "name": "New",
+        "color": "#428BCA",
+        "group": 1
+      },
+      "created_at": 1713985997000,
+      "scheduled_for": 1715443200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": "N-400 for his mother"
+      },
+      "estimated_cost": "1800",
+      "estimated_done_at": 1715454720000,
+      "id_label": "A047",
+      "price": 0,
+      "branch_id": 81879,
+      "overdue": true,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14191412,
+        "name": "Michael Terfe - 804-484-9606",
+        "first_name": "Michael Terfe - 804-484-9606",
+        "last_name": "",
+        "email": "",
+        "phone": [
+          ""
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1713985997000,
+        "created_at": 1713985997000,
+        "discount_code": "",
+        "custom_fields": {},
+        "ad_campaign": {}
+      },
+      "manager_id": 130462,
+      "engineer_id": 130317,
+      "created_by_id": 130462,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20546301,
+      "modified_at": 1714066077000,
+      "uuid": "2dad57a8-02e4-4823-93fc-be82339c427b",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1714056013000,
+      "done_at": 1714066077000,
+      "scheduled_for": 1714060800000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 200,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714062600000,
+      "id_label": "A048",
+      "price": 200,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23681478,
+          "entityId": 14879700,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-765 Work Permit የስራ ፈቃድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 200,
+          "cost": 70,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14191786,
+        "name": "Asamere Weldeyohannes",
+        "first_name": "Asamere",
+        "last_name": "Weldeyohannes",
+        "email": "eremasa@gmail.com",
+        "phone": [
+          "12404812742"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1714055948000,
+        "created_at": 1714055948000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20546308,
+      "modified_at": 1714056309000,
+      "uuid": "9233f184-e056-49dc-8329-edce822f4880",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1714056300000,
+      "done_at": 1714056309000,
+      "scheduled_for": 1713999600000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1714438800000,
+      "id_label": "A049",
+      "price": 200,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23681484,
+          "entityId": 14879700,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-765 Work Permit የስራ ፈቃድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 200,
+          "cost": 70,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14191790,
+        "name": "Sosina Gebregziabher",
+        "first_name": "Sosina",
+        "last_name": "Gebregziabher",
+        "email": "",
+        "phone": [
+          "12025575788"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1714056233000,
+        "created_at": 1714056233000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    },
+    {
+      "id": 20546315,
+      "modified_at": 1714056545000,
+      "uuid": "6ce5aef9-1ea1-4920-98cc-f6f4d2b6c7a9",
+      "status": {
+        "id": 815239,
+        "name": "Done",
+        "color": "#555555",
+        "group": 4
+      },
+      "created_at": 1714056468000,
+      "done_at": 1714056545000,
+      "scheduled_for": 1713715200000,
+      "duration": 60,
+      "kindof_good": "",
+      "serial": "",
+      "packagelist": "",
+      "appearance": "",
+      "malfunction": "",
+      "manager_notes": "",
+      "engineer_notes": "",
+      "resume": "",
+      "payed": 0,
+      "missed_payments": 0,
+      "warranty_measures": 0,
+      "urgent": false,
+      "discount_sum": 0,
+      "resources": [],
+      "custom_fields": {
+        "f1522643": ""
+      },
+      "estimated_cost": "0",
+      "estimated_done_at": 1713969900000,
+      "id_label": "A050",
+      "price": 200,
+      "branch_id": 81879,
+      "overdue": false,
+      "status_overdue": false,
+      "parts": [],
+      "operations": [
+        {
+          "id": 23681488,
+          "entityId": 14879700,
+          "uom_id": 1,
+          "engineerId": 130458,
+          "title": "I-765 Work Permit የስራ ፈቃድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+          "amount": 1,
+          "price": 200,
+          "cost": 70,
+          "discount_value": 0,
+          "taxes": [],
+          "warranty": 2,
+          "warranty_period": 0
+        }
+      ],
+      "attachments": [],
+      "order_type": {
+        "id": 139634,
+        "name": "Main order"
+      },
+      "client": {
+        "id": 14191797,
+        "name": "Dagmawi Mulugeta",
+        "first_name": "Dagmawi",
+        "last_name": "Mulugeta",
+        "email": "dagmawisamuel057@gmail.com",
+        "phone": [
+          "12023603342"
+        ],
+        "notes": "",
+        "address": "",
+        "supplier": false,
+        "juridical": false,
+        "conflicted": false,
+        "modified_at": 1714056452000,
+        "created_at": 1714056452000,
+        "discount_code": "",
+        "discount_goods": 0,
+        "discount_services": 0,
+        "discount_materials": 0,
+        "custom_fields": {
+          "client_identification_number": ""
+        },
+        "ad_campaign": {}
+      },
+      "manager_id": 130458,
+      "engineer_id": 130458,
+      "created_by_id": 130458,
+      "ad_campaign": {},
+      "asset": {},
+      "brand": "",
+      "model": ""
+    }
+  ],
+  "page": 1,
+  "count": 241,
+  "success": true
+}

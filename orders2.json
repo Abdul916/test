@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "id": 20546315,
+            "modified_at": 1714056545000,
+            "uuid": "6ce5aef9-1ea1-4920-98cc-f6f4d2b6c7a9",
+            "status": {
+                "id": 815239,
+                "name": "Done",
+                "color": "#555555",
+                "group": 4
+            },
+            "created_at": 1714056468000,
+            "done_at": 1714056545000,
+            "scheduled_for": 1713715200000,
+            "duration": 60,
+            "kindof_good": "",
+            "serial": "",
+            "packagelist": "",
+            "appearance": "",
+            "malfunction": "",
+            "manager_notes": "",
+            "engineer_notes": "",
+            "resume": "",
+            "payed": 0,
+            "missed_payments": 0,
+            "warranty_measures": 0,
+            "urgent": false,
+            "discount_sum": 0,
+            "resources": [],
+            "custom_fields": {
+                "f1522643": ""
+            },
+            "estimated_cost": "0",
+            "estimated_done_at": 1713969900000,
+            "id_label": "A050",
+            "price": 200,
+            "branch_id": 81879,
+            "overdue": false,
+            "status_overdue": false,
+            "parts": [],
+            "operations": [
+                {
+                    "id": 23681488,
+                    "entityId": 14879700,
+                    "uom_id": 1,
+                    "engineerId": 130458,
+                    "title": "I-765 Work Permit የስራ ፈቃድ, የትርጉም ፣ የትርጓሜ ፣ የሰነድ ዝግጅት እና የማጠናቀር አገልግሎቶችን መስጠት። Providing translation, interpretation, document preparation, and compilation services.",
+                    "amount": 1,
+                    "price": 200,
+                    "cost": 70,
+                    "discount_value": 0,
+                    "taxes": [],
+                    "warranty": 2,
+                    "warranty_period": 0
+                }
+            ],
+            "attachments": [],
+            "order_type": {
+                "id": 139634,
+                "name": "Main order"
+            },
+            "client": {
+                "id": 14191797,
+                "name": "Dagmawi Mulugeta",
+                "first_name": "Dagmawi",
+                "last_name": "Mulugeta",
+                "email": "dagmawisamuel057@gmail.com",
+                "phone": [
+                    "12023603342"
+                ],
+                "notes": "",
+                "address": "",
+                "supplier": false,
+                "juridical": false,
+                "conflicted": false,
+                "modified_at": 1714056452000,
+                "created_at": 1714056452000,
+                "discount_code": "",
+                "discount_goods": 0,
+                "discount_services": 0,
+                "discount_materials": 0,
+                "custom_fields": {
+                    "client_identification_number": ""
+                },
+                "ad_campaign": {}
+            },
+            "manager_id": 130458,
+            "engineer_id": 130458,
+            "created_by_id": 130458,
+            "ad_campaign": {},
+            "asset": {},
+            "brand": "",
+            "model": ""
+        }
+    ],
+    "page": 1,
+    "count": 1,
+    "success": true
+}

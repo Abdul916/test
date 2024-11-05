@@ -1,0 +1,208 @@
+// Get Order Types
+{
+	"data": [
+		{
+			"id": 139634,
+			"name": "Main order"
+		}
+	],
+	"count": 1,
+	"success": true
+}
+
+// Get Order Custom Fields
+{
+	"data": [
+		{
+			"id": 2296449,
+			"name": "Order description",
+			"type": 2
+		}
+	],
+	"count": 1,
+	"success": true
+}
+
+ 
+// Get Order Statuses
+{
+	"data": [
+		{
+			"id": 815228,
+			"name": "New",
+			"color": "#428BCA",
+			"group": 1
+		},
+		{
+			"id": 822402,
+			"name": "Add Event",
+			"color": "#428BCA",
+			"group": 1
+		},
+		{
+			"id": 815246,
+			"name": "Diagnostic",
+			"color": "#5CB85C",
+			"group": 2
+		},
+		{
+			"id": 815247,
+			"name": "In progress",
+			"color": "#5CB85C",
+			"group": 2
+		},
+		{
+			"id": 815244,
+			"name": "Approval",
+			"color": "#F0AD4E",
+			"group": 3
+		},
+		{
+			"id": 815242,
+			"name": "Waiting for parts",
+			"color": "#F0AD4E",
+			"group": 3
+		},
+		{
+			"id": 815243,
+			"name": "Invoiced",
+			"color": "#F0AD4E",
+			"group": 3
+		},
+		{
+			"id": 815238,
+			"name": "Delivery",
+			"color": "#5BC0DE",
+			"group": 5
+		},
+		{
+			"id": 815239,
+			"name": "Done",
+			"color": "#555555",
+			"group": 4
+		},
+		{
+			"id": 815240,
+			"name": "Waiting for collection",
+			"color": "#555555",
+			"group": 4
+		},
+		{
+			"id": 815253,
+			"name": "Closed",
+			"color": "#999999",
+			"group": 6
+		},
+		{
+			"id": 815252,
+			"name": "Archived",
+			"color": "#999999",
+			"group": 6
+		},
+		{
+			"id": 815233,
+			"name": "Dropped off - price",
+			"color": "#D6D6D6",
+			"group": 7
+		},
+		{
+			"id": 815234,
+			"name": "Dropped off - quality",
+			"color": "#D6D6D6",
+			"group": 7
+		},
+		{
+			"id": 815235,
+			"name": "Dropped off - terms",
+			"color": "#D6D6D6",
+			"group": 7
+		}
+	],
+	"count": 15,
+	"success": true
+}
+
+
+// Get Warehouses
+{
+  "data": [
+    {
+      "id": 289848,
+      "title": "Product warehouse",
+      "is_global": false
+    },
+    {
+      "id": 289896,
+      "title": "Product warehouse",
+      "is_global": false
+    }
+  ],
+  "count": 2,
+  "success": true
+}
+
+
+// Get Locations Branches
+{
+  "data": [
+    {
+      "id": 81879,
+      "name": "My location"
+    },
+    {
+      "id": 81883,
+      "name": "Adulois MCS"
+    }
+  ],
+  "page": 1,
+  "count": 2,
+  "success": true
+}
+
+
+// Get Postings
+{
+  "data": [
+    {
+      "id": 3362847,
+      "id_label": "B2",
+      "crated_at": 1727171356000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Product 1",
+          "uom_id": 1,
+          "code": "1234",
+          "article": "4321",
+          "amount": 200,
+          "price": 5
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": 3362846,
+      "id_label": "B1",
+      "crated_at": 1727170901000,
+      "created_by_id": 130317,
+      "supplier_id": 14183316,
+      "warehouse_id": 289896,
+      "products": [
+        {
+          "title": "Bulb",
+          "uom_id": 1,
+          "code": "",
+          "article": "1252",
+          "amount": 200,
+          "price": 4
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "page": 1,
+  "count": 2,
+  "success": true
+}
