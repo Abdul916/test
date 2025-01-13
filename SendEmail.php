@@ -3,6 +3,10 @@ header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type, Authorization");
+
+require 'vendor/autoload.php';
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
 $rawData = file_get_contents("php://input");
 $data = json_decode($rawData, true);
 if (!isset($data['email']) || !isset($data['messages'])) {
@@ -11,7 +15,6 @@ if (!isset($data['email']) || !isset($data['messages'])) {
 }
 $userEmail = htmlspecialchars($data['email']);
 $messages = $data['messages'];
-
 $emailContent = "<h1>Questions and Answers Summary</h1>";
 $emailContent .= "<p><strong>Form submitted by: </strong>" . $userEmail . "</p>";
 $emailContent .= "<ul>";
@@ -25,20 +28,19 @@ foreach ($messages as $message) {
     }
 }
 $emailContent .= "</ul>";
-
-$to = "dev1@explorelogicsit.net";
-$subject = "New Messages Summary";
-$headers = "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-$headers .= "From: noreply@explorelogicsit.net\r\n";
-$headers .= "Content-Transfer-Encoding: 7bit\r\n";
-$headers .= "X-Mailer: PHP/" . phpversion() . "\r\n";
-$headers .= "X-Priority: 3\r\n";
-$headers .= "X-MSMail-Priority: Normal\r\n";
-$headers .= "Importance: Normal\r\n";
-if (mail($to, $subject, $emailContent, $headers)) {
+$mail = new PHPMailer(true);
+try {
+    $mail->isSMTP();
+    $mail->Host = 'smtp.gmail.com';
+    $mail->SMTPAuth = false;
+    $mail->Port = 25;
+    $mail->setFrom('noreply@explorelogicsit.net', 'Explore Logics');
+    $mail->addAddress('dev1@explorelogicsit.net', 'Explore Logics');
+    $mail->isHTML(true);
+    $mail->Subject = 'New Messages Summary';
+    $mail->Body    = $emailContent;
+    $mail->send();
     echo json_encode(['msg' => 'success', 'response' => 'Data successfully submitted.']);
-} else {
-    echo json_encode(['msg' => 'error', 'response' => 'Submission failed. Please try again.']);
+} catch (Exception $e) {
+    echo json_encode(['msg' => 'error', 'response' => "Submission failed. Please try again. Error: {$mail->ErrorInfo}"]);
 }
-?>
