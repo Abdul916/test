@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Step Form</title>
+</head>
+<body>
+    <div id="stepform" class="stepform">
+        <div class="container">
+            <div class="wrapper">
+                <form class="form-wrapper">
+                    <fieldset class="section is-active" id="step1">
+                        <div class="step-title">
+                            <span class="rocket">🚀</span>
+                            <h2 class="image-heading">
+                            Få ett prisförslag på nolltid!</h2>
+                        </div>
+                        <div class="row cf form-radio-section">
+                            <p class="radio-heading">Svara på lite snabba och enkla frågor, få ett prisförslag här direkt utan krångel.<br> Du binder inte upp dig på något när du svarar.</p>
+                            <button class="button" type="button" id="btn1">Få prisförslag nu <i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+                        </div>
+                    </fieldset>
+                    <fieldset class="section" id="step2">
+                        <div class="step-title">
+                            <h2 class="image-heading">
+                            När vill du sätta igång ditt projekt?</h2>
+                            <p class="radio-heading">Vi är redo när det passar er.</p>
+                        </div>
+                        <div class="row cf form-radio-section">
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r1">
+                                <label for="r1">
+                                    <h4>Så fort som möjligt</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r2">
+                                <label for="r2">
+                                    <h4>Om 1-4 veckor</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r3">
+                                <label for="r3">
+                                    <h4>Om mer än 1 månad</h4>
+                                </label>
+                            </div>
+                            <button class="button" type="button" id="btn_step2">Next</button>
+                        </div>
+                    </fieldset>
+                    <fieldset class="section" id="step3">
+                        <div class="step-title">
+                            <h2 class="image-heading">
+                                Ska hemsidan vara en webbshop?
+                            </h2>
+                            <p class="radio-heading">Med en webbshop kan du sälja produkter och tjänster eller visa upp ditt utbud.
+                            </p>
+                        </div>
+                        <div class="row cf form-radio-section">
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r1">
+                                <label for="r1">
+                                    <h4>Ja</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r2">
+                                <label for="r2">
+                                    <h4>Nej</h4>
+                                </label>
+                            </div>
+                            <button class="button">Next</button>
+                        </div>
+                    </fieldset>
+                    <fieldset class="section" id="step4">
+                        <div class="step-title">
+                            <h2 class="image-heading">
+                            Hur många sidor behöver er nya hemsida?</h2>
+                            <p class="radio-heading">Exempel på sidor kan vara Hem, Om oss, Tjänster, Kontakt eller liknande.
+                            Kontaktformulär ingår alltid!</p>
+                        </div>
+                        <div class="row cf form-radio-section">
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r1">
+                                <label for="r1">
+                                    <h4>1</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r2">
+                                <label for="r2">
+                                    <h4>2-10</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r3">
+                                <label for="r3">
+                                    <h4>11+</h4>
+                                </label>
+                            </div>
+                            <button class="button">Next</button>
+                        </div>
+                    </fieldset>
+                    <fieldset class="section" id="step5">
+                        <div class="step-title">
+                            <h2 class="image-heading">
+                                Behöver du hjälp med innehåll till hemsidan?
+                            </h2>
+                            <p class="radio-heading">Som till exempel texter, bilder, illustrationer och filmer.
+                            </p>
+                        </div>
+                        <div class="row cf form-radio-section">
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r1">
+                                <label for="r1">
+                                    <h4>Ja</h4>
+                                </label>
+                            </div>
+                            <div class="four col">
+                                <input type="radio" name="r1" id="r2">
+                                <label for="r2">
+                                    <h4>Nej</h4>
+                                </label>
+                            </div>
+                            <button class="button">Next</button>
+                        </div>
+                    </fieldset>
+                    <fieldset class="section" id="step6">
+                        <div class="flag-img">
+                            <img src="form-svg/racing-flag.png" alt="">
+                        </div>
+                        <div class="field">
+                            <label>Company Name</label>
+                            <input type="text">
+                        </div>
+                        <div class="field">
+                            <label>Phone Number</label>
+                            <input type="tel">
+                        </div>
+                        <div class="button2">Back</div>
+                        <button class="button">Next</button>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn1").click(function () {
+                $(".section").removeClass("is-active");
+                $("#step2").addClass("is-active");
+            });
+            $("#btn_step2").click(function () {
+                $(".section").removeClass("is-active");
+                $("#step3").addClass("is-active");
+            });
+
+            // $("#btn1").click(function () {
+            //     $("#step1").hide();
+            //     $("#step2").show();
+            // });
+            // $("#btn_step2").click(function () {
+            //     $("#step2").hide();
+            //     $("#step3").show();
+            // });
+
+
+        });
+    </script>
+</body>
+</html>
